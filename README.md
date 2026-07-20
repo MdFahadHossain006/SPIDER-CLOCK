@@ -159,12 +159,10 @@ This project combines several modern design philosophies into a single interacti
 
 # 📸 Preview
 
-> Replace this section with your project GIF for the best visual presentation.
-
-```text
-assets/preview.gif
-```
-
+<p align="center">
+  <img src="https://i.postimg.cc/9XTsCwnQ/Screenshot-2026-07-20-221537.png" alt="Animated Spider Clock Preview" width="50%">
+  
+</p>
 ---
 
 # 💡 Why This Project?
