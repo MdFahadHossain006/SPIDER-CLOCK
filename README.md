@@ -43,27 +43,89 @@ Whether you're a web developer, UI/UX enthusiast, or animation lover, this proje
 
 # ⚡ Highlights
 
-> Experience a next-generation animated clock unlike any traditional design.
+> **Experience a next-generation animated clock unlike any traditional design.**
 
-🕷️ **Living Spider Clock** – A realistic animated spider becomes the heart of the clock.
+<table>
+<tr>
+<td width="50%">
 
-🕸️ **Dynamic Spider Web Effects** – Beautiful glowing webs react with smooth animations.
+### 🕷️ Living Spider Clock
+A realistic animated spider becomes the heart of the clock, replacing traditional clock hands.
 
-🎌 **Japanese Manga Style** – Inspired by anime aesthetics and comic-style visuals.
+</td>
 
-💎 **Premium Glassmorphism UI** – Modern translucent components with elegant blur effects.
+<td width="50%">
 
-🌌 **Cyberpunk Neon Theme** – Blue, purple, and cyan lighting create an immersive atmosphere.
+### 🕸️ Dynamic Spider Web Effects
+Beautiful glowing spider webs with smooth, immersive animations.
 
-✨ **High-End Animations** – Cinematic transitions, floating particles, glowing borders, and smooth motion.
+</td>
+</tr>
 
-⚡ **Real-Time Clock Engine** – Spider legs accurately represent the current hour, minute, and second.
+<tr>
+<td>
 
-📱 **Fully Responsive** – Optimized for desktops, tablets, and mobile devices.
+### 🎌 Japanese Manga Style
+Inspired by Japanese anime, manga artwork, and comic aesthetics.
 
-🎨 **Pure Front-End** – Built without frameworks using only HTML, CSS, and Vanilla JavaScript.
+</td>
 
-🚀 **Performance Optimized** – Lightweight, fast-loading, and smooth at 60 FPS.
+<td>
+
+### 💎 Premium Glassmorphism UI
+Modern translucent interface featuring elegant blur and glowing effects.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌌 Cyberpunk Neon Theme
+A futuristic combination of blue, purple, and cyan neon lighting.
+
+</td>
+
+<td>
+
+### ✨ High-End Animations
+Smooth cinematic transitions, floating particles, and glowing visual effects.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚡ Real-Time Clock Engine
+Spider legs accurately display the current hour, minute, and second.
+
+</td>
+
+<td>
+
+### 📱 Fully Responsive
+Optimized for desktops, tablets, and mobile devices.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎨 Pure Front-End
+Developed using only HTML5, CSS3, and Vanilla JavaScript.
+
+</td>
+
+<td>
+
+### 🚀 Performance Optimized
+Lightweight architecture with smooth 60 FPS animations.
+
+</td>
+</tr>
+</table>
 
 
 ## VISIT THE LIVE VERSION CLICK ON HERE 👇 
